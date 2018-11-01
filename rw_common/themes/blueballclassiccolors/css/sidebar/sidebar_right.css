@@ -1,0 +1,22 @@
+/*
+-------------------------------------------
+File: 'Classic Colors' sidebar_left.css Style Sheet
+Created: 16 December, 2005
+-------------------------------------------
+*/
+
+
+#sidebarContainer {
+	float: right;
+	padding: 0px 8px 10px 0px;
+}
+
+
+#contentContainer {
+	margin-right: 208px;
+	margin-left: 0px;
+}
+
+
+
+

@@ -1,0 +1,546 @@
+/*
+-------------------------------------------
+File: 'Classic Colors' salmongray.css Style Sheet
+Created: 16 December, 2005
+-------------------------------------------
+*/
+
+
+/*<group=GENERAL STYLES>*/
+
+
+
+body {
+	background-color: #8c8266;
+}
+
+
+p {
+}
+
+
+a:link, a:visited{
+	color:  #446aa9;
+}
+
+
+a:hover, a:active{
+	color:  #446aa9;
+}
+
+
+b, strong {
+}
+
+.image-left{
+}
+
+.image-right{
+}
+
+img {
+}
+
+a img {
+}
+
+.clear {
+}
+
+/*</group>*/
+
+
+/*<group=GLOBAL CLASSES>*/
+
+.imageStyle {
+}
+
+.standout, blockquote {
+	border-left:  5px solid #8c8266;
+}
+
+
+h1 {
+	color: #446aa9;
+}
+
+h2 {
+	color: #446aa9;
+}
+
+h3 {
+	color: #446aa9;
+}
+
+
+h4 {
+	color: #446aa9;
+}
+
+
+h5 {
+	color: #446aa9;
+}
+
+
+/*</group>*/
+
+/*<group=CONTAINER>*/
+
+
+#container {
+}
+
+#container #top{
+}
+
+#container #bottom{
+}
+
+
+/*</group>*/
+
+/*<group=PAGEHEADER>*/
+
+
+#pageHeader {
+	background-color: #446aa9;
+}
+
+#pageHeader h1 { 
+}
+
+#pageHeader h2 {
+}
+
+#pageHeader #logo{
+}
+
+#breadcrumbcontainer {
+	border-top: 1px solid #8c8266;
+}
+
+#breadcrumbcontainer ul {
+}
+
+#breadcrumbcontainer li { 
+}
+
+#breadcrumbcontainer a {
+}
+
+#breadcrumbcontainer a:hover {
+}
+
+/*</group>*/
+
+/*<group=CONTENT LAYOUT>*/
+
+
+#contentwrapper {
+}
+
+#sidebarContainer {
+}
+
+#sidebarContainer #sidebar .sideHeader {
+	color: #446aa9;
+}	
+
+#sidebarContainer #sidebar {
+}
+
+#sidebarContainer #sidebar p {
+}
+
+
+#contentContainer {
+}
+
+
+/* The 4 divs below style the columns
+in Isaiah's Columns Plug-In Style Page */
+
+#columns-container {
+}
+
+#columns-left {
+}
+
+#columns-right {
+}
+
+#columns-clearer {
+}
+
+/* End Columns Plug-In Style Formatting */
+
+
+#footer {
+}
+
+#footer p {
+}
+
+#footer a:link, #footer a:visited {
+}
+
+#footer a:hover, #footer a:active {
+}
+	
+/*</group>*/
+
+
+
+/*<group=TOOLBAR>*/
+
+
+.clearfix:after{
+}
+
+/* Toolbar Styles */
+
+#navcontainer {
+}
+
+#navcontainer #current {
+	color: #446aa9;
+}
+
+#navcontainer #current:hover {
+}
+
+#navcontainer .currentAncestor {
+	color: #446aa9;
+}
+
+
+/* Parent - Level 0 */
+
+
+#navcontainer ul{
+}
+
+#navcontainer li { 
+}
+
+#navcontainer a{
+}
+
+#navcontainer a:hover {
+	color: #446aa9;
+}
+
+
+
+/* Child - Level 1 */
+
+
+
+#navcontainer ul ul li { 
+}
+
+#navcontainer ul ul a{
+}
+
+#navcontainer ul ul a:hover{
+	color: #446aa9;
+}
+
+#navcontainer ul ul #current{
+	color: #446aa9;
+}
+
+#navcontainer ul ul .currentAncestor {
+
+}
+
+
+
+/* Child - Level 2 */
+
+
+
+#navcontainer ul ul ul li {
+}
+
+#navcontainer ul ul ul a{
+}
+
+#navcontainer ul ul ul a:hover{
+	color: #446aa9;
+}
+
+#navcontainer ul ul #current{
+	color: #446aa9;	
+}
+
+#navcontainer ul ul .currentAncestor {
+}
+
+
+/* Child - Level 3 */
+
+
+
+#navcontainer ul ul ul ul li {
+}
+
+#navcontainer ul ul ul ul a{
+}
+
+#navcontainer ul ul ul ul a:hover{
+	color: #446aa9;
+}
+
+#navcontainer ul ul ul #current{
+	color: #446aa9;	
+}
+
+#navcontainer ul ul ul .currentAncestor {
+}
+
+
+
+
+
+
+	
+/*</GROUP>*/
+
+
+
+/*<group=BLOG>*/
+
+
+
+.blog-entry {
+}
+
+.blog-entry-title {
+	color: #446aa9;
+}
+
+.blog-entry img {
+}
+
+.blog-entry-date {
+}
+
+.blog-entry-category {
+	color: #446aa9;
+}
+
+.blog-category-link-enabled {
+}
+
+.blog-category-link-disabled {
+}
+
+.blog-entry-body {
+}
+
+.blog-entry-comments {
+	color: #446aa9;
+}
+
+
+
+/*</group>*/
+
+/*<group=BLOG ARCHIVE PAGE>*/
+
+.blog-archive-background {
+}
+
+.blog-archive-headings-wrapper {
+}
+
+.blog-archive-entries-wrapper {
+}
+
+.blog-archive-month {
+	color: #446aa9;
+}
+
+.blog-archive-link {
+}
+
+.blog-archive-link a:link, .blog-archive-link a:visited {
+}
+
+/*</group>*/
+
+/*<group=FILE SHARING>*/
+
+.filesharing-description {
+}
+
+.filesharing-item {
+}
+
+.filesharing-item a{
+}
+
+.filesharing-item a:hover {
+	color: #446aa9;
+}
+
+.filesharing-item-title {
+}
+
+.filesharing-item-description {
+}
+
+/*</group>*/
+
+/*<group=PHOTO ALBUM>*/
+
+/*<group=Index Page (Thumbnail view)>*/
+
+table td{
+}
+
+.album-title {
+	color: #446aa9;
+}
+
+.album-description {
+}
+
+.thumbnail-table {
+}
+
+.thumbnail-frame {
+}
+
+.thumbnail-frame a:hover {
+}
+
+.thumbnail-frame a {
+}
+
+.thumbnail-frame img {
+}
+
+.thumbnail-caption {
+}
+
+/*</group>*/
+
+/*<group=Single Page (Photo view)>*/
+
+.photo-background {
+}
+
+.photo-navigation {
+	background-color: #446aa9;
+	border-bottom:  4px solid #8c8266;
+}
+
+.photo-navigation a:link, .photo-navigation a:visited {
+}
+
+.photo-navigation a:hover {
+}
+
+.photo-frame{
+}
+
+.photo-links {
+}
+
+.photo-title {
+}
+
+.photo-caption {
+}
+
+/*</group>*/
+
+/*</group>*/
+
+
+/*<group=QUICKTIME ALBUM>*/
+
+
+/*<group=Index Page (Movie Thumbnail view)>*/
+
+
+.movie-page-title {
+	color: #446aa9;
+}
+
+.movie-page-description {
+}
+
+.movie-thumbnail-frame {
+}
+
+.movie-thumbnail-frame:hover {
+	border: 1px solid #446aa9;
+}
+
+.movie-thumbnail-caption {
+}
+
+	
+/*</group>*/
+
+/*<group=Single Page (Movie View)>*/
+
+.movie-background {
+	background: #8c8266;
+}
+
+.movie-title {
+	color: #446aa9;
+}
+
+.movie-description {
+}
+
+.movie-frame {
+}
+	
+/*</group>*/
+
+
+/*<group=Quicktime Page>*/
+
+.movie-background {
+	background: #8c8266;
+}
+
+.movie-title {
+	color: #446aa9;
+}
+
+.movie-description {
+}
+
+.movie-frame {
+}
+	
+/*</group>*/
+
+/*</group>*/
+
+
+/*<group=CONTACT FORM>*/
+
+
+.message-text {
+}
+
+.required-text {
+	color: #446aa9;
+} 
+
+.form-input-field{
+}
+
+.form-input-button {
+}
+
+/*</group>*/

@@ -1,0 +1,39 @@
+/*
+-------------------------------------------
+File: 'Classic Colors' width_840.css Style Sheet
+Created: 16 December, 2005
+-------------------------------------------
+*/
+
+#container {
+	width: 840px;
+	background: url(../../images/RWTP1_bg840_middle.png) repeat-y;
+}
+
+#container #top{
+	position: relative;
+	background: url(../../images/RWTP1_bg840_top14.png) top no-repeat;
+	width:  840px;
+	z-index: 3;
+}
+
+
+#container #bottom{
+	position: relative;
+	background: url(../../images/RWTP1_bg840_bottom14.png) bottom no-repeat;
+	width: 840px;
+	z-index: 4;
+}
+
+.blog-archive-background {
+	width: 820px;
+}
+
+.blog-archive-headings-wrapper {
+	width: 820px;
+}
+
+.blog-archive-entries-wrapper {
+	width: 820px;
+}
+

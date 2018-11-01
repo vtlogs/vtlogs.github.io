@@ -1,0 +1,5 @@
+User-Agent: *
+Disallow: /rw_common/
+Disallow: /downloads/
+Disallow: /files/
+Sitemap: http://vtlogs.com/sitemap.xml
